@@ -14,16 +14,21 @@ Exploring the intersection of **Machine Learning, Spatial Analysis, and Environm
 ---
 
 ## 💻 Tech Stack
+
+### 🗺️ GIS & Remote Sensing
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-007ACC?style=for-the-badge&logo=esri&logoColor=white)
 ![ArcGIS Business](https://img.shields.io/badge/ArcGIS_Business-005C97?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![ENVI](https://img.shields.io/badge/ENVI-FF6600?style=for-the-badge)
-![SPSS](https://img.shields.io/badge/SPSS-002147?style=for-the-badge&logo=ibm&logoColor=white)
 
+### 🐍 Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-5294E2?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 📊 Statistics & Analytics
+![SPSS](https://img.shields.io/badge/SPSS-002147?style=for-the-badge&logo=ibm&logoColor=white)
 
 
 ---
