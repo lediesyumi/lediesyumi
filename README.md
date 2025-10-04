@@ -1,8 +1,8 @@
 # 👋 I'm yumi eiei
 
 🎓 **Geography & Geoinformatics student @ Thammasat University**  
-🌍 Passionate about **GeoAI, GIS, Remote Sensing, Climate Change and Agriculture**  
-💻 Exploring the intersection of **Machine Learning, Spatial Analysis, and Environmental Applications**  
+Passionate about **GeoAI, GIS, Remote Sensing, Climate Change and Agriculture**  
+Exploring the intersection of **Machine Learning, Spatial Analysis, and Environmental Applications**  
 
 ---
 
