@@ -20,6 +20,7 @@ Exploring the intersection of **Machine Learning, Spatial Analysis, and Environm
 ![ArcGIS Business](https://img.shields.io/badge/ArcGIS_Business-005C97?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![ENVI](https://img.shields.io/badge/ENVI-FF6600?style=for-the-badge)
+![SNAP](https://img.shields.io/badge/ESA%20SNAP-004B87?style=for-the-badge&logo=esa&logoColor=white)
 
 ### 🐍 Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
